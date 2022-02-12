@@ -30,6 +30,6 @@
  <a href="https://www.facebook.com/gabriel.vinicius5734/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gabriel-silverio-5a55a6209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/silveriogabriel/silveriogabriel/blob/output/github-contribution-grid-snake.svg)
   
 </dev>
