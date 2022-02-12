@@ -18,9 +18,8 @@ olá eu sou o Gabriel Vinicius 👋
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Gabriel-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/k1tDp7A1ys8AAAAC/programmer-developer.gif">
-  <img align="right" alt="Gabriel-pic" height="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
-  <img align="right" alt="Gabriel-pic" height="140" style="border-radius:50px;" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <img align="right" alt="Gabriel-pic" height="160" width="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+  <img align="right" alt="Gabriel-pic" height="170" width="200" style="border-radius:50px;" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
   
   ##
