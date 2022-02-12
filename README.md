@@ -1,7 +1,7 @@
-<h1>olá eu sou o Gabriel Vinicius. 👋 Desenvolvedor e professor da linguagem Python !</h1>
+<h1>olá eu sou o Gabriel Vinicius. 👋</h1>
 
 - 🔭 Trabalhando em desenvolvimento Web com Flask ...
-- 🌱 Estudando Flask, HTML, CSS, jS...
+- 🌱 Estudando Flask, HTML, CSS, jS, Pandas, Scrapy, PySimpleGUI...
 - 📫 Whatsapp: +5515996767254
 - 😄 Pronouns: Bieel, Bits
 
