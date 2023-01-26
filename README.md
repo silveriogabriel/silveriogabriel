@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando em desenvolvimento VB6 ...
 - 🌱 Flask, HTML, CSS, jS, Pandas, Scrapy, PySimpleGUI, Node JS , Vb6, Delphi...
-- 📫 Whatsapp: +5515996767254
+- 📫 Whatsapp: +5515997649045
 - 😄 Pronouns: Bieel, Bits
 
 <div>
